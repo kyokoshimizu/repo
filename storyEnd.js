@@ -151,7 +151,7 @@ function count_up_start () {
 	setInterval(function() {
 		if(count_num <= end_num) {
 			if(count_num === end_num) {
-				alert("タイムオーバー！！！");
+				alert("タイムオーバー！！！www");
 				num = 3;
 			}
 			$("#cup").html( count_num );
