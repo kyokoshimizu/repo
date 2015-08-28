@@ -1,0 +1,25 @@
+.q1,.q2,.answer,h2,.key{
+	color: white;
+	vertical-align: bottom;
+}
+#cup {
+	font-size: 40px;
+}
+.mente {
+	font-size: 80px;
+}
+.content {
+	margin-top: 70px;
+	text-align: center;
+}
+.key {
+	font-size: 2px;
+}
+.textbox {
+	width: 100px;
+}
+.hint {
+	margin-top: 30px;
+	color: white;
+	text-align: center;
+}
